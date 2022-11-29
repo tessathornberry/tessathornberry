@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **<a target="_blank" mailto="tessa.thornberry.engineer@gmail.com">tessa.thornberry.engineer@gmail.com</a>**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1yU0YyDG0yBcdy2uPqslQVEEtG3pQ3G9SPsNQF09pLiM/edit?usp=sharing" target="blank" rel="noreferrer">Tessa Thornberry - Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
