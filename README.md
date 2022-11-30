@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=dotenv&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-485063?style=for-the-badge&logo=express&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/react-222222?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
