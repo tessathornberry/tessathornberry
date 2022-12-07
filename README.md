@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Tessa Thornberry</h1>
 <h3 align="center">A passionate Full Stack software engineer from the San Francisco Bay Area</h3>
 
-- I’m currently working on finding a position with a company where I can grow, while creating and/or maintaining full stack applications.
-
-- I’m looking to collaborate on **Full Stack and Front-end UI/UX projects**
+- I’m currently working on finding a position with a company where I can grow independently and collaboratively, while creating and/or maintaining full stack or front-end applications for web or mobile.
 
 - 📫 How to reach me **<a target="_blank" mailto="tessa.thornberry.engineer@gmail.com">tessa.thornberry.engineer@gmail.com</a>**
 
