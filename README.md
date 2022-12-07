@@ -9,10 +9,10 @@
 
 <h3 align="left">Some of my recent projects:</h3>
 <div style={{display: flex; justify-content: space-evenly;}}>
-  <a href="https://github.com/tessathornberry/Colorberry-Messages.git"><img src="https://github.com/tessathornberry/Colorberry-Messages/blob/main/src/assets/ColorberryView.gif" width="auto" height="150" alt="ColorBerry Messages message list screen showing colored-in messages"></a>
-  <a href="https://github.com/SpiritedAway-BO/Capstagram.git" style={{padding: 10px}}><img align="center" src="https://github.com/SpiritedAway-BO/Capstagram/raw/main/client/assets/Login.png" alt="Capstagram log-in mobile screen" height="150" width="auto" /></a>
+  <a href="https://github.com/SpiritedAway-BO/Capstagram.git" style={{padding-left: 100px;}}><img align="center" src="https://github.com/SpiritedAway-BO/Capstagram/raw/main/client/assets/Login.png" alt="Capstagram log-in mobile screen" height="150" width="auto" /></a>
    <a href="https://github.com/SpiritedAway-BO/Capstagram.git"><img align="center" src="https://github.com/SpiritedAway-BO/Capstagram/raw/main/client/assets/Captions.png" alt="Capstagram captions mobile screen" height="150" width="auto" ></a>
    <a href="https://github.com/Nugget-Reactor/FEC.git"><img align="center" src="https://github.com/Nugget-Reactor/FEC/raw/main/client/src/assets/Homepage.png" alt="Gnicchi e-commerce landing page showing camo onesie" height="150" width="auto" ></a>
+  <a href="https://github.com/tessathornberry/Colorberry-Messages.git"><img align="center" src="https://github.com/tessathornberry/Colorberry-Messages/blob/main/src/assets/ColorberryView.gif" width="auto" height="150" alt="ColorBerry Messages message list screen showing colored-in messages"></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style={{display: flex;}}> <img src="">
+<div style={{display: flex;}}>
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-485063?style=for-the-badge&logo=express&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/react-222222?style=for-the-badge&logo=react&logoColor=61DAFB">
