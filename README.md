@@ -10,7 +10,7 @@
   <a href="https://github.com/SpiritedAway-BO/Capstagram.git" style={{padding-left: 100px;}}><img align="center" src="https://github.com/SpiritedAway-BO/Capstagram/raw/main/client/assets/Login.png" alt="Capstagram log-in mobile screen" height="150" width="auto" /></a>
    <a href="https://github.com/SpiritedAway-BO/Capstagram.git"><img align="center" src="https://github.com/SpiritedAway-BO/Capstagram/raw/main/client/assets/Captions.png" alt="Capstagram captions mobile screen" height="150" width="auto" ></a>
    <a href="https://github.com/Nugget-Reactor/FEC.git"><img align="center" src="https://github.com/Nugget-Reactor/FEC/raw/main/client/src/assets/Homepage.png" alt="Gnicchi e-commerce landing page showing camo onesie" height="150" width="auto" ></a>
-  <a href="https://github.com/tessathornberry/Colorberry-Messages.git"><img align="center" src="https://github.com/tessathornberry/Colorberry-Messages/blob/main/src/assets/ColorberryView.gif" width="auto" height="150" alt="ColorBerry Messages message list screen showing colored-in messages"></a>
+  <a href="https://github.com/tessathornberry/Colorberry-Messages.git"><img align="center" src="https://github.com/tessathornberry/Colorberry-Messages/raw/main/src/assets/ColorBerryView.png" width="auto" height="150" alt="ColorBerry Messages message list screen showing colored-in messages"></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
