@@ -6,7 +6,10 @@
 - 📫 How to reach me **<a target="_blank" mailto="tessa.thornberry.engineer@gmail.com">tessa.thornberry.engineer@gmail.com</a>**
 
 <h3 align="left">Some of my recent projects:</h3>
+![image]()
+
 <div style={{display: flex; justify-content: space-evenly;}}>
+  <a href="https://github.com/sfbrigade/compass" style={{padding-left: 100px;}}><img align="center" src="https://github.com/tessathornberry/tessathornberry/assets/105292208/7a024e19-53a1-4b9b-ae78-3e5396c4ed96" alt="Compass web app" height="150" width="auto" /></a>
   <a href="https://github.com/SpiritedAway-BO/Capstagram.git" style={{padding-left: 100px;}}><img align="center" src="https://github.com/SpiritedAway-BO/Capstagram/raw/main/client/assets/Login.png" alt="Capstagram log-in mobile screen" height="150" width="auto" /></a>
    <a href="https://github.com/SpiritedAway-BO/Capstagram.git"><img align="center" src="https://github.com/SpiritedAway-BO/Capstagram/raw/main/client/assets/Captions.png" alt="Capstagram captions mobile screen" height="150" width="auto" ></a>
    <a href="https://github.com/Nugget-Reactor/FEC.git"><img align="center" src="https://github.com/Nugget-Reactor/FEC/raw/main/client/src/assets/Homepage.png" alt="Gnicchi e-commerce landing page showing camo onesie" height="150" width="auto" ></a>
