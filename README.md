@@ -6,7 +6,6 @@
 - 📫 How to reach me **<a target="_blank" mailto="tessa.thornberry.engineer@gmail.com">tessa.thornberry.engineer@gmail.com</a>**
 
 <h3 align="left">Some of my recent projects:</h3>
-![image]()
 
 <div style={{display: flex; justify-content: space-evenly;}}>
   <a href="https://github.com/sfbrigade/compass" style={{padding-left: 100px;}}><img align="center" src="https://github.com/tessathornberry/tessathornberry/assets/105292208/7a024e19-53a1-4b9b-ae78-3e5396c4ed96" alt="Compass web app" height="150" width="auto" /></a>
