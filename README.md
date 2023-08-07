@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/tessathornberry/tessathornberry/assets/105292208/53b344d3-3562-4801-9b65-641c0793de1b" alt="Thornberry banner" width="60%" align="center">
+  <img src="https://github.com/tessathornberry/tessathornberry/assets/105292208/675d18d4-82c9-4672-9377-7a03053d83ea" alt="Thornberry banner" width="100%" align="center">
 </div>
 <h1 align="center">Hi, I'm Tessa Thornberry</h1>
 <h3 align="center">A passionate Full Stack software engineer from the San Francisco Bay Area</h3>
